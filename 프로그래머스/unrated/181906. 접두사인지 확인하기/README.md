@@ -89,5 +89,10 @@ Empty
 <li>예제 4번에서 <code>is_prefix</code>가 <code>my_string</code>의 접두사가 아니기 때문에 0을 return 합니다.</li>
 </ul>
 
-
+class Solution {
+    public int solution(String my_string, String is_prefix) {
+        if (my_string.startsWith(is_prefix)) return 1;
+        return 0;
+    }
+}
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
