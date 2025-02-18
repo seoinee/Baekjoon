@@ -1,10 +1,10 @@
 # [level 0] 문자열 섞기 - 181942 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181942?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181942?language=java) 
 
 ### 성능 요약
 
-메모리: 10.1 MB, 시간: 0.01 ms
+메모리: 77.7 MB, 시간: 29.12 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 09월 25일 18:53:47
+2025년 02월 18일 23:30:03
 
 ### 문제 설명
 
