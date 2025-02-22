@@ -9,11 +9,11 @@ class Solution {
                 stack.push('(');
             }
             else if(s.charAt(i) == ')') {
-                if(stack.isEmpty()) { return false; }
+                if(stack.empty()) { return false; }
                 stack.pop();
             }
         }
 
-        return stack.isEmpty();
+        return stack.empty();
     }
 }
